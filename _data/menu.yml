@@ -2,12 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  #- title: info
+  - title: about me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      #- title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      #- title: github repo
+       # url: https://github.com/riggraz/no-style-please
+      #- title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+      - title: Joanna Pocztańska
+      - title: Undergraduate Computer Engineer
+      - title: Hof, Germany
       - title: github repo
         url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "You can find me here <a href='https://riggraz.dev'>riggraz.dev</a> and here <a href='https://github.com/riggraz/no-style-please/network/dependents'></a>"
 
   - title: all posts
     post_list:
