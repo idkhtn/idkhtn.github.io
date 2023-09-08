@@ -13,12 +13,12 @@ entries:
       #- title: Joanna Pocztańska
       - title: Undergraduate Computer Engineer
       - title: Hof, Germany
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
       - title: "You can find me here <a href='https://www.linkedin.com/in/joanna-pocztanska/'>linkedin</a> and here <a href='https://github.com/idkhtn'>github</a>"
       - title: cv
         url: /assets/cv.pdf
       - title: If you want to get in touch with me, <a href='mailto:jmpocztanska@gmail.com'>email</a> is best.
+      - title: github repo for this website
+        url: https://github.com/riggraz/no-style-please
 
   #- title: all posts
    # post_list:
